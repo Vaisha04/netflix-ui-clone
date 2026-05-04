@@ -15,7 +15,7 @@ Desktop
 
 Mobile
 
-![image alt](
+![image alt](https://github.com/Vaisha04/netflix-ui-clone/blob/7643c5d5dba9d4488fe670ad2e4280547a558edd/Netflix%20Clone/Mobile.png)
 
 
 Purpose :-
