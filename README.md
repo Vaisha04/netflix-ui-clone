@@ -9,7 +9,13 @@ HTML5
 CSS3
 Screenshot :-
 
+Desktop
 
+![image alt](https://github.com/Vaisha04/netflix-ui-clone/blob/a1aa559584cebe95071b96385eecb77510f0ffeb/Netflix%20Clone/Desktop.png)
+
+Mobile
+
+![image alt](
 
 
 Purpose :-
