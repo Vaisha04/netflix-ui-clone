@@ -1,12 +1,15 @@
 Netflix UI Clone :-
 This project is a frontend UI clone of the Netflix homepage built using HTML and CSS.
+
 Features :-
 Netflix homepage UI design
 Responsive layout
 Clean and modern styling
+
 Tech Stack :-
 HTML5
 CSS3
+
 Screenshot :-
 
 Desktop
